@@ -1,6 +1,19 @@
 # DSL-PROT: Deterministic Sovereign Ledger Protocol
 ## A Hardware-Gated, Flow-Driven Monetary State Machine
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)]()
+[![Architecture: Hardware-Gated](https://img.shields.io/badge/Architecture-Hardware--Gated-darkred.svg)]()
+[![Status: Specification-Draft](https://img.shields.io/badge/Status-Specification--Draft-blue.svg)]()
+[![Paradigm: Flow-Driven Minting](https://img.shields.io/badge/Paradigm-Flow--Driven%20Minting-darkgreen.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20404842.svg)](https://doi.org/10.5281/zenodo.20404842)
+---
+
+## Citation · 引用
+
+If you reference this specification, please cite the archived version:
+
+> SiliconForge / maomaoati-coder. (2026). *DSL-PROT: Deterministic Sovereign Ledger Protocol v1.0*. Zenodo. https://doi.org/10.5281/zenodo.20404842
+
 **Version:** 1.0-draft  
 **Status:** Public Specification  
 **License:** MIT  
